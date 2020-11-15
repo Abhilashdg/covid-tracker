@@ -1,0 +1,86 @@
+body {
+    text-align: center;
+    margin: 0;
+    
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+}
+
+#cont {
+    background: rgba(238, 238, 255, 0.356);
+    box-shadow: 5px 10px rgba(61, 55, 80, 0.3);
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 5px;
+    display: block;
+    background: url(./img/a1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+div {
+    display: flexbox;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: rgb(4, 4, 7);
+    background: rgb(19, 18, 18);
+}
+
+h1 {
+    font-size: 50px;
+    color: #24a10a;
+    text-transform: capitalize;
+}
+.logo{
+    background: url(./img/a2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2 {
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #01010c;
+}
+
+.recover {
+    padding: 20px;
+    top: 0px;
+    color: black;
+    background: #90ee90;
+}
+
+.death {
+    background: #ee0909;
+}
+
+.activ {
+    background: #90ee90;
+}
+
+.activv {
+    background:  #90ee90;
+}
+
+span {
+    font-size: 25px;
+    color: #24af18;
+}
+
+select {
+    padding: 20px;
+    background: #a70551;
+    color: white;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    width: 80vw;
+}
